@@ -1,0 +1,34 @@
+{
+  "name": "synclockver",
+  "version": "0.0.0",
+  "description": "Sync package-lock.json version to package.json",
+  "author": "Al Mahdi",
+  "license": "MIT",
+  "homepage": "https://github.com/picomet/synclockver#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picomet/synclockver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/picomet/synclockver/issues"
+  },
+  "bin": {
+    "synclockver": "index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "type": "module",
+  "files": [],
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write .",
+    "release": "npm install typescript && npm run build && changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.8",
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.2"
+  }
+}
