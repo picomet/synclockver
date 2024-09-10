@@ -4,7 +4,7 @@
 ![downloads](https://img.shields.io/npm/dw/synclockver)
 ![license](https://img.shields.io/npm/l/synclockver)
 
-Sync package-lock.json version to package.json
+Sync package-lock.json versions to package.json
 
 ## Usage
 

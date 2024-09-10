@@ -1,7 +1,7 @@
 {
   "name": "synclockver",
   "version": "1.0.1",
-  "description": "Sync package-lock.json version to package.json",
+  "description": "Sync package-lock.json versions to package.json",
   "author": "Al Mahdi",
   "license": "MIT",
   "homepage": "https://github.com/picomet/synclockver#readme",
