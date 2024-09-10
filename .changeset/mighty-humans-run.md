@@ -1,5 +1,0 @@
----
-"synclockver": major
----
-
-Initial release
