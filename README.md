@@ -9,7 +9,7 @@ Sync package-lock.json versions to package.json
 ## Usage
 
 ```bash
-npm install synclockver --no-save && npx synclockver
+npx -y synclockver
 ```
 
 ## License
