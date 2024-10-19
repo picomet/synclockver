@@ -1,5 +1,11 @@
 # synclockver
 
+## 1.0.2
+
+### Patch Changes
+
+- 40c5320: readme(usage): use 'npm i synclockver --no-save && synclockver'
+
 ## 1.0.1
 
 ### Patch Changes
