@@ -1,6 +1,6 @@
 {
   "name": "synclockver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sync package-lock.json versions to package.json",
   "author": "Al Mahdi",
   "license": "MIT",
