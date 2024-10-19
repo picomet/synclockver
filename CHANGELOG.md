@@ -1,5 +1,12 @@
 # synclockver
 
+## 1.0.3
+
+### Patch Changes
+
+- b72a7b7: readme(usage): use npx -y
+- e6af19f: fix: respect end new lines
+
 ## 1.0.2
 
 ### Patch Changes
