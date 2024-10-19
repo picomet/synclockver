@@ -2,4 +2,4 @@
 "synclockver": patch
 ---
 
-readme(usage): use npx -y
+readme(usage): use 'npm i synclockver --no-save && synclockver'

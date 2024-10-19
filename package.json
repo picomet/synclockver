@@ -23,7 +23,7 @@
   "scripts": {
     "build": "tsc",
     "format": "prettier --write .",
-    "v": "changeset version && npx -y synclockver",
+    "v": "changeset version && npm i synclockver --no-save && synclockver",
     "release": "npm install typescript && npm run build && changeset publish"
   },
   "devDependencies": {
